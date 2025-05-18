@@ -1,0 +1,15 @@
+apple
+fruit
+car
+cat
+dog 
+house
+money
+computer
+interpreted
+dynamically
+memory
+module
+collection
+anonymous
+
